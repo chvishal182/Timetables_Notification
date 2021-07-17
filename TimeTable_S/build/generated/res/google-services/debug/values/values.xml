@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">663732905369-timal80ojg4la8bc3nk483uqt4ae29gi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">663732905369</string>
+    <string name="google_api_key" translatable="false">AIzaSyCny4AO8V_ag0cjHrmUzrsgcO-ZI80YqIs</string>
+    <string name="google_app_id" translatable="false">1:663732905369:android:d028c1312eaa0cd0a0df08</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCny4AO8V_ag0cjHrmUzrsgcO-ZI80YqIs</string>
+    <string name="google_storage_bucket" translatable="false">timetable-s-34347.appspot.com</string>
+    <string name="project_id" translatable="false">timetable-s-34347</string>
+</resources>
